@@ -1,0 +1,53 @@
+
+                                                   LINUX
+cal - calender
+whoami- networks
+who -it show login user 
+halt - immediate down the system
+shutdown - off the computer
+reboot - reboots the computer system
+pwd - it shows the locations
+ls-l - its show the detailed informations of the directory
+ls-a - it shows the hidden files
+
+
+how to create a file
+
+1. vi sample.txt 
+      press esc it will go to esc mode
+             ;wq - save and show to desktop 
+             cat - shows the content of the folder
+        to edit a file
+without saving
+    ;q!
+
+
+copy paste
+
+        yy - copy entire the entire line
+         p- paste the entire line
+
+delete
+        dd - delete the entire line
+
+undo
+        u - undo 
+
+
+d2d - it delete the 2 lines from the row
+
+y3y - it copy the 3 lines
+ 
+p3p - it paste the 3 lines
+
+
+
+repalacing the text
+
+vi sample.txt
+
+;s/sample/simple/g
+
+       
+
+   
